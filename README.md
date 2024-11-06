@@ -7,5 +7,5 @@ Replace the Prop_DynamoLantern.hps file to make the lantern eternal at script\cu
 
 UA | Щоб генератор став вічним, його потрібно заправити паливом
 Замініть файл GeneratorModule.hps щоб двигун був вічним за адресою script\custom\modules
-Замініть файл Prop_DynamoLantern.hps щоб фонарик був вічним за адресою script\custom\props
+Замініть файл Prop_DynamoLantern.hps щоб ліхтар був вічним за адресою script\custom\props
 
